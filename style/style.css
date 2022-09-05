@@ -35,3 +35,38 @@ text-decoration: none;
   background-color: yellow;
 }
 /* paragrafo e lista */
+
+/* INIZIO TABELLA */
+table{
+  width: 100%;
+  border-collapse:collapse ;
+}
+
+.back{
+  height:20px;
+  width: 100%;
+  background-color: rgb(25, 166, 248);
+}
+
+#titolo-left{
+  text-align: left;
+  width: 140px;
+}
+
+#titolo-centro{
+  text-align: center;
+}
+
+#titolo-destra{ù
+text-align: right;}
+
+.lorem{text-align: center;}
+
+.testo{width: 400px;}
+
+.prima{background-color:rgb(21, 196, 255) ;}
+
+.ultima{ background-color:rgb(21, 196, 255) ;}
+
+/* FINE TABELLA */
+
