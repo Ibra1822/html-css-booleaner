@@ -31,7 +31,7 @@ text-decoration: none;
 
 /* data e scatto foto  */
 
-#importante{
+.importante{
   background-color: yellow;
 }
 /* paragrafo e lista */
@@ -70,3 +70,73 @@ text-align: right;}
 
 /* FINE TABELLA */
 
+
+/* FOOTER - PUBBLICITA' */
+
+#pubblicità{
+  font-size: 20px;
+  color: rgb(111, 110, 110);
+  font-weight: 700;
+}
+
+.pub1{
+  margin-top: 20px;
+  height: 200px;
+  width: 230px;
+  border: 1px solid black;
+  background-image: url(../img/monitor.jpg);
+  background-position: center;
+  
+
+}
+.pub2{margin-top: 5px;
+  height: 200px;
+  width: 230px;
+  border: 1px solid black;
+  background-image: url(../img/graph.jpg);
+  background-position: center;
+  
+}
+
+.scritta{
+  color: white;
+  font-size: 21px;
+  font-weight: 700;
+  margin: 15px;
+}
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
