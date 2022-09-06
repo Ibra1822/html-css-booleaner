@@ -49,21 +49,12 @@ table{
   color: white;
 }
 
-#titolo-left{
-  text-align: left;
-  width: 140px;
-}
 
-#titolo-centro{
-  text-align: center;
+#titolo-destra{
+  width: 50%;
 }
-
-#titolo-destra{ù
-text-align: right;}
 
 .lorem{text-align: center;}
-
-.testo{width: 400px;}
 
 .prima{background-color:rgb(21, 196, 255) ;}
 
